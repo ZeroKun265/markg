@@ -1,2 +1,4 @@
 # Python environment
 env/
+# Pycache
+src/__pycache__
