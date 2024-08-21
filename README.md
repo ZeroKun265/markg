@@ -20,6 +20,12 @@ I am glad if people contribute and all, and i'll try to actually finish this sid
 
 That being said..
 
+# 
+
+### Availability
+I plan to host markg as a public service once it comes out of what i'd call alpha right now. As of writing there is no real reason to turn it into a product for now.
+Hopefully in the future this page will be updated with a url to a hosted instance of markg 🤞
+
 ### How to contribute
 I know my dev structure sucks but i have never actually done something serious, so if you have suggestions on how to change it, please open an issue!
 
@@ -33,3 +39,4 @@ I know my dev structure sucks but i have never actually done something serious, 
 
 ### System Requirements
 - Python: as of now the project is being developed with Python 3.12.4(latest as of writing), altough no testing for previous versions was done, be advised
+
