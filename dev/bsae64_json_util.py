@@ -21,4 +21,5 @@ def base64_to_json(base64_str):
     # Load the JSON string into a dictionary and return
     return json.loads(json_str)
 
-print(json_to_base64({"test": 1}))
+if __name__ == "__main__":
+    print(json_to_base64({"test": 1}))
