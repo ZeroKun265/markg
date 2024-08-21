@@ -2,3 +2,5 @@
 env/
 # Pycache
 src/__pycache__
+
+dev/config.ini
