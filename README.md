@@ -1,6 +1,6 @@
 ![](assets/Mark_banner.svg)
 # Markg
-
+![markg version: 0.1 alpha](https://img.shields.io/badge/markg-0.1%20alpha-rebeccapurple)
 <table>
   <tr>
     <td>
